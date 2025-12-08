@@ -8,6 +8,7 @@ package ha;
  *
  * @author SANG HA
  */
+
 public class Ha {
 
     /**
@@ -15,6 +16,10 @@ public class Ha {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        System.out.println("Hello nha");
+        System.out.println("mega kill cân 5");
+
     }
+   
     
 }
