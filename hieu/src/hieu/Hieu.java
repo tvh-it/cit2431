@@ -15,7 +15,7 @@ public class Hieu {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        //test
+        System.out.println("Hello world");
     }
     
 }
