@@ -15,6 +15,8 @@ public class Phuc {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //Helo Thay Hieu
+        System.out.println("Helo world");
     }
     
 }
